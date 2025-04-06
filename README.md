@@ -34,7 +34,7 @@ This project is licensed under the MIT license. [MIT](https://opensource.org/lic
 ## Contributing
 I owe many thanks to the following tutors for their assistance:  Ainsley (helped with setting up the server side) ,Alexis, Sangeetha( helped with debuggin addBook mutation ).  Additionally, thanks to Dan M. for his assistance. Copilot was used for code suggestions and debugging.
 ## Tests
-In order to test the application, run the application and make sure the books are saved and retrieved for each authorized usser.
+In order to test the application, run the application and make sure the books are saved and retrieved for each authorized user.
 ## Questions
 To reach me with additional questions please contact me at:
 perezteri@hotmail.com  
