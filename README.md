@@ -18,10 +18,13 @@ Walkthrough Video
 
 
 
+ 
+
+ 
+
+https://github.com/user-attachments/assets/c55581ff-a229-4b91-9d5e-40fd0a4b66c8
 
 
-
-https://github.com/user-attachments/assets/e37a9b59-bd90-4610-808f-8ea1cd5a0ee2
 
  Mutations:  addBook, addUser, login, removeBook
  
