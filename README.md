@@ -38,7 +38,3 @@ perezteri@hotmail.com
 GitHub : [pebbsmom](https://github.com/pebbsmom)
 
 
-
- # googlebooks
-# googlebooks
-# googlebooks
