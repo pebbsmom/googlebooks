@@ -10,7 +10,7 @@ This Google Books API search engine is built with GraphQL API and Apollo Server.
 * [Questions](#questions)
 ## Installation
 GitHub Link https://github.com/pebbsmom/googlebooks
-Render Link https://googlebooks-7.onrender.com/saved
+Render Link https://googlebooks-7.onrender.com/ 
 
 1) Clone this repo onto your local computer using 'git clone'. 2) Make sure you install all the necessary dependencies by running 'npm i' in the terminal. 3) Build the application using 'npm run build'  4) Start the API by running 'npm run develop'
 ## Usage
